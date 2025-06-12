@@ -1,0 +1,14 @@
+{
+    "name": "wrap",
+    "version": "1.0.0",
+    "scripts": {
+
+      
+      "wrap": "node scripts/wrap.js"  
+    },
+    "dependencies":
+        {"colors":"^1.4.0",
+        "dotenv":"^16.5.0",
+        "ethers":"^6.14.3",
+        "moment":"^2.30.1",
+        "readline-sync":"^1.4.10"}}
